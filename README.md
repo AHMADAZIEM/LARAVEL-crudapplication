@@ -1,8 +1,11 @@
 ![image](https://user-images.githubusercontent.com/55674070/183276584-234d3aca-a13b-48d4-8832-1a6b27d3f953.png)
 
 -
--cd LARAVEL-crudapplication
--composer install 
+-
+
+- git clone https://github.com/AHMADAZIEM/LARAVEL-crudapplication
+- cd LARAVEL-crudapplication
+- -composer install 
 -npm install(option)
 -cp .env.example .env(create database basiccrud)
 -php artisan key:generate 
@@ -11,13 +14,6 @@
 
 -Done
 
-- git clone https://github.com/AHMADAZIEM/LARAVEL-crudapplication
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
