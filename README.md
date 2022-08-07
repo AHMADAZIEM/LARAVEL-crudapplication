@@ -6,13 +6,13 @@
 - git clone https://github.com/AHMADAZIEM/LARAVEL-crudapplication
 - cd LARAVEL-crudapplication
 - -composer install 
--npm install(option)
--cp .env.example .env(create database basiccrud)
--php artisan key:generate 
--php artisan migrate
--php artisan serve
+- -npm install(option)
+- -cp .env.example .env(create database basiccrud)
+- -php artisan key:generate 
+- -php artisan migrate
+- -php artisan serve
 
--Done
+- -Done
 
 
 
