@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/55674070/183276584-234d3aca-a13b-48d4-8832-1a6b27d3f953.png)
 
--git clone https://github.com/AHMADAZIEM/LARAVEL-crudapplication
+-
 -cd LARAVEL-crudapplication
 -composer install 
 -npm install(option)
@@ -11,7 +11,7 @@
 
 -Done
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- git clone https://github.com/AHMADAZIEM/LARAVEL-crudapplication
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
